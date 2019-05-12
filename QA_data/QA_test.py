@@ -9,7 +9,7 @@ conn = sqlite3.connect('./QA_data/QA.db')
 
 cursor = conn.cursor()
 stop_words = []
-with open('./QA_data/stop_words.txt') as f:
+with open('./QA_data/stop_words.txt', encoding='gbk') as f:
     for line in f.readlines():
         stop_words.append(line.strip('\n'))
 

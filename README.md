@@ -1,6 +1,6 @@
 # 🍀 小智，又一个中文聊天机器人:yum:
 
-💖 利用有趣的中文语料库qingyun，由@Doragd同学编写的中文聊天机器人:snowman:
+💖 利用有趣的中文语料库qingyun，由@Doragd 同学编写的中文聊天机器人:snowman:
 
 * 尽管她不是那么完善:muscle:，不是那么出色:paw_prints:
 * 但她是由我自己coding出来的:sparkling_heart: ，所以![](https://img.shields.io/badge/-It%20means%20everything-ff69b4.svg)
@@ -17,7 +17,7 @@
 
 该系统服务的场景类似腾讯云的客服系统，客户多是来咨询相关问题的(云服务器，域名等)，所以知识库也是有关云服务器，域名等的咨询，故障处理的 (问题,答案) 集合。
 
-系统的前端界面和前后端消息交互由另一个同学完成，主要采用React+Django方式。
+系统的前端界面和前后端消息交互由另一个同学@adjlyadv 完成，主要采用React+Django方式。
 
 @Doragd 同学负责的是知识库的获取和聊天机器人的编写，训练，测试。这个repo的内容也是关于这个的。
 
